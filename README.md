@@ -22,5 +22,5 @@ El proceso es relativamente sencillo.
 9. Escogemos las zetas (z), en el step ponemos 0.25 y decimos que nos rellene las celdas vacías ('empty cells') con un valor interpolado ('interpolate')
 10. Exportamos el resultado (heights) como raster y lo llamamos 'La_Poza_lidar3_mdt.tif'
 Ahora nos vamos a Qgis y cargamos ese fichero en una vista epsg 25830
-11. En caso de no tenerlo instalado, instalamos el plugin Relief Visualization Tool
+11. En caso de no tenerlo instalado, instalamos el plugin Relief Visualization Tool ![alt text](https://github.com/dieza/la_poza/blob/main/rvt.png?raw=true)
 12. Lo aplicamos a nuestro fichero
