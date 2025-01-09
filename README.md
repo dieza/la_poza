@@ -24,3 +24,5 @@ El proceso es relativamente sencillo.
 Ahora nos vamos a Qgis y cargamos ese fichero en una vista epsg 25830
 11. En caso de no tenerlo instalado, instalamos el plugin Relief Visualization Tool ![alt text](https://github.com/dieza/la_poza/blob/main/rvt.png?raw=true)
 12. Lo aplicamos a nuestro fichero ![alt text](https://github.com/dieza/la_poza/blob/main/rvt2.png?raw=true)
+13. Vemos el resultado:
+    ![alt text](https://github.com/dieza/la_poza/blob/main/la_poza.jpg?raw=true)
