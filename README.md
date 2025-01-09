@@ -26,3 +26,4 @@ Ahora nos vamos a Qgis y cargamos ese fichero en una vista epsg 25830
 12. Lo aplicamos a nuestro fichero ![alt text](https://github.com/dieza/la_poza/blob/main/rvt2.png?raw=true)
 13. Vemos el resultado:
     ![alt text](https://github.com/dieza/la_poza/blob/main/la_poza.jpg?raw=true)
+    Si quieres saber más de los campamentos romanos de la poza (https://dialnet.unirioja.es/servlet/articulo?codigo=2214250)
