@@ -8,6 +8,8 @@ https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=11731201
 https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=11731129
 https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=11731200
 
+Los enlaces han dejado de funcionar los ficheros se pueden descargar desde la carpeta datos.
+
 Ahora necesitamos instalar en el ordenador el programa CloudCompare (https://www.cloudcompare.org)
 
 El proceso es relativamente sencillo.
