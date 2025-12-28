@@ -12,9 +12,13 @@ Los enlaces han dejado de funcionar los ficheros se pueden descargar desde la ca
 
 
 [PNOA_2023_CANT_407-4757_NPC01.laz](datos/PNOA_2023_CANT_407-4757_NPC01.laz)
+
 [PNOA_2023_CANT_408-4757_NPC01.laz](datos/PNOA_2023_CANT_408-4757_NPC01.laz)
+
 [PNOA_2023_CANT_407-4758_NPC01.laz](datos/PNOA_2023_CANT_407-4758_NPC01.laz)
+
 [PNOA_2023_CANT_408-4758_NPC01.laz](datos/PNOA_2023_CANT_408-4758_NPC01.laz)
+
 
 Ahora necesitamos instalar en el ordenador el programa CloudCompare (https://www.cloudcompare.org)
 
